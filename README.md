@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Full Stack em formação</h3>
 
 ### 👨‍💻 Mini resumo
-Estudante de tecnologia apaixonado por transformar ideias em código. Atualmente focando em aprendizado de tecnologias Full Stack, com interesse especial em inteligência artificial, desenvolvimento mobile e arquitetura de sistemas. Fromação em andamento em Técnico em Desenvolvimento de Sistemas (TDS).
+Estudante de tecnologia apaixonado por transformar ideias em código. Atualmente focando em aprendizado de tecnologias Full Stack, com interesse especial em inteligência artificial, desenvolvimento mobile e arquitetura de sistemas. Formação em andamento em Técnico em Desenvolvimento de Sistemas (TDS).
 
 ---
 
