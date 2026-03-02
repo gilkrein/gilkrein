@@ -19,6 +19,7 @@ Estudante de tecnologia apaixonado por transformar ideias em código. Atualmente
   <img src="https://skillicons.dev/icons?i=android,angular,bootstrap,cpp,css,dart,figma,flutter,git,html,java,js,mysql,nodejs,py,react,tailwind,ts&theme=light" />
 </p>
 
+
 ---
 
 ### 📊 Estatísticas
