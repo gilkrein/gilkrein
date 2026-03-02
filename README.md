@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilberto Krein</h1>
 <h3 align="center">Desenvolvedor Full Stack em formação</h3>
 
-### 👨‍💻 Mini resumo
+### Mini resume
 Estudante de tecnologia apaixonado por transformar ideias em código. Atualmente focando em aprendizado de tecnologias Full Stack, com interesse especial em inteligência artificial, desenvolvimento mobile e arquitetura de sistemas. Formação em andamento em Técnico em Desenvolvimento de Sistemas (TDS)
 
 ---
@@ -20,7 +20,7 @@ Estudante de tecnologia apaixonado por transformar ideias em código. Atualmente
 
 ---
 
-### 📊 Estatísticas
+### 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gilkrein&layout=compact&theme=vision-friendly-dark" />
   <br><br>
