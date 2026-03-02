@@ -35,10 +35,13 @@ Estudante de tecnologia apaixonado por transformar ideias em código. Atualmente
 
 ---
 
----
+
+
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gilkrein&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gilkrein&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=gilkrein&show_icons=true&theme=dracula&locale=pt-br" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gilkrein&layout=compact&theme=dracula&locale=pt-br" alt="Top Langs" />
+</div>
