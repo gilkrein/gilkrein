@@ -16,8 +16,7 @@ Estudante de tecnologia apaixonado por transformar ideias em código. Atualmente
 
 ### Languages and Tools:
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,cpp,css,dart,figma,flutter,git,html,java,js,mysql,nodejs,py,react,tailwind,ts&theme=light" />
+  <img src="https://skillicons.dev/icons?i=android,angular,bootstrap,cpp,css,dart,figma,flutter,git,html,java,js,mysql,nodejs,py,react,tailwind,ts&theme=light" />
 </p>
 
 ---
