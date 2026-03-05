@@ -16,7 +16,7 @@ Estudante de tecnologia apaixonado por transformar ideias em código. Atualmente
 
 ### Languages and Tools:
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,css,figma,git,html,java,js,mysql,nodejs,react,tailwind,ts&theme=light" /></p>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,figma,git,html,java,js,mysql,nodejs,react,tailwind,ts&theme=light" /></p>
 
 ---
 
