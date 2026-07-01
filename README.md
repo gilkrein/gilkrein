@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gilberto Krein</h1>
 <h3 align="center">Desenvolvedor Full Stack em formação</h3>
 
-### Mini resume
 Sou um profissional focado em construir soluções e resolver problemas complexos. Vindo da Engenharia Civil, desenvolvi uma sólida base analítica, visão sistêmica de projetos e raciocínio lógico avançado — habilidades que hoje canalizo integralmente para o desenvolvimento de software.
 
 🎓 Técnico em Desenvolvimento de Sistemas pelo IFB e graduando em Ciência da Computação. O meu foco diário é construir aplicações robustas, aprimorar a arquitetura de códigos e entender como a tecnologia pode otimizar processos reais.
 
 Vejo minha transição de carreira não como uma mudança de rumo, mas como uma evolução de ferramentas. Sigo focado em expandir meu conhecimento técnico e busco ativamente oportunidades para atuar como Desenvolvedor.
 
-🚀 Interesses e estudos atuais: Java, JavaScript, Banco de Dados, Segurança da Informação.
----
+🚀 **Interesses e estudos atuais:** Java, JavaScript, Banco de Dados, Segurança da Informação.
 
 ### Connect with me:
 <p align="left">
