@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gilberto Krein</h1>
-<h3 align="center">Desenvolvedor Full Stack em formação</h3>
 
 Sou um profissional focado em construir soluções e resolver problemas complexos. Vindo da Engenharia Civil, desenvolvi uma sólida base analítica, visão sistêmica de projetos e raciocínio lógico avançado — habilidades que hoje canalizo integralmente para o desenvolvimento de software.
 
