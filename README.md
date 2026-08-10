@@ -24,7 +24,7 @@ Vejo minha transição de carreira não como uma mudança de rumo, mas como uma 
 
 ### 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gilkrein&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilkrein&layout=compact&theme=vision-friendly-dark" />
   <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gilkrein&show_icons=true&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gilkrein&show_icons=true&theme=vision-friendly-dark" />
 </div>
