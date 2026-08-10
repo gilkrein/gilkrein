@@ -24,12 +24,7 @@ Vejo minha transição de carreira não como uma mudança de rumo, mas como uma 
 
 ### 📊 Stats
 <div align="center">
-  <!-- Card de Sequência (Streak Stats) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilkrein&theme=dark" />
   <br><br>
-  <!-- Card de Estatísticas Gerais (Alternativa GitHub Readme Stats via Metrics) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/chat/get-shape?author=gilkrein&theme=0x44" />
-  <br><br>
-  <!-- Card de Linguagens Mais Usadas (Alternativa via GitHub Profile Summary Cards) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilkrein&theme=2077" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gilkrein&layout=compact&theme=vision-friendly-dark" />
 </div>
