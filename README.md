@@ -41,8 +41,9 @@ Vejo minha transição de carreira não como uma mudança de rumo, mas como uma 
   <img src="./ssms_21.png" alt="azure-data-studio" width="40" height="40"/> 
 </a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
-<a href="https://jmeter.apache.org/"_blank" rel="noreferrer">
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
   <img src="./jmeter.png" alt="jmeter" width="40" height="40"/>
+</a>
     <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/diagramsdotnet.svg" alt="drawio" width="40" height="40"/> </a>
    <a href="https://lovable.dev/" target="_blank" rel="noreferrer">
   <img src="./lovable-ai-icon.png" alt="lovable" width="40" height="40"/>
