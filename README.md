@@ -58,7 +58,7 @@ Vejo minha transição de carreira não como uma mudança de rumo, mas como uma 
 <a href="https://astah.net/" target="_blank" rel="noreferrer">
   <img src="./astah3.png" alt="astah" width="40" height="40"/>
 <a href="https://dbdiagram.io/" target="_blank" rel="noreferrer">
-  <img src="./dbdiagram-io.png" alt="dbdiagram" width="40" height="40"/>
+  <img src="./dbdiagram.png" alt="dbdiagram" width="40" height="40"/>
 </a>
 </p>
 
