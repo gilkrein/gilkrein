@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gilberto Krein</h1>
 
-Sou um profissional focado em construir soluções e resolver problemas complexos. Vindo da Engenharia Civil, desenvolvi uma sólida base analítica, visão sistêmica de projetos e raciocínio lógico avançado — habilidades que hoje canalizo integralmente para o desenvolvimento de software.
+Sou um profissional focado em construir soluções e resolver problemas complexos. Vindo da Engenharia Civil, desenvolvi uma sólida base analítica, visão sistêmica de projetos e raciocínio lógico avançado (habilidades que hoje canalizo integralmente para o desenvolvimento de software).
 
 🎓 Técnico em Desenvolvimento de Sistemas pelo IFB e graduando em Ciência da Computação. O meu foco diário é construir aplicações robustas, aprimorar a arquitetura de códigos e entender como a tecnologia pode otimizar processos reais.
 
