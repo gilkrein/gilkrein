@@ -56,7 +56,7 @@ Vejo minha transição de carreira não como uma mudança de rumo, mas como uma 
   <img src="./cisco-packet-tracer.png" alt="packet-tracer" width="40" height="40"/>
 </a>
 <a href="https://astah.net/" target="_blank" rel="noreferrer">
-  <img src="./astah2.png" alt="astah" height="40"/>
+  <img src="./astah3.png" alt="astah" width="40" height="40"/>
 </a>
 </p>
 
