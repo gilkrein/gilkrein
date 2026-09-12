@@ -43,6 +43,21 @@ Vejo minha transição de carreira não como uma mudança de rumo, mas como uma 
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apachejmeter.svg" alt="jmeter" width="40" height="40"/> </a>
     <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/diagramsdotnet.svg" alt="drawio" width="40" height="40"/> </a>
+   <a href="https://lovable.dev/" target="_blank" rel="noreferrer">
+  <img src="./lovable-ai-icon.png" alt="lovable" width="40" height="40"/>
+</a>
+<a href="https://owasp.org/www-project-threat-dragon/" target="_blank" rel="noreferrer">
+  <img src="./threat-dragon.png" alt="threat-dragon" width="40" height="40"/>
+</a>
+<a href="https://mermaid.js.org/" target="_blank" rel="noreferrer">
+  <img src="./mermaid.png" alt="mermaid" width="40" height="40"/>
+</a>
+<a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
+  <img src="./cisco-packet-tracer.png" alt="packet-tracer" width="40" height="40"/>
+</a>
+<a href="https://astah.net/" target="_blank" rel="noreferrer">
+  <img src="./astah.png" alt="astah" width="40" height="40"/>
+</a>
 </p>
 
 ---
