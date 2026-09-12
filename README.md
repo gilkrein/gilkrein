@@ -34,6 +34,18 @@ Vejo minha transição de carreira não como uma mudança de rumo, mas como uma 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a> 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
+   <!-- Inteligências Artificiais -->
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="chatgpt" width="40" height="40"/> </a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlegemini.svg" alt="gemini" width="40" height="40"/> </a>
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/anthropic.svg" alt="claude" width="40" height="40"/> </a>
+
+  <!-- Banco de Dados, Gerenciamento e Testes -->
+  <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/> </a>
+  <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apachejmeter.svg" alt="jmeter" width="40" height="40"/> </a>
+  
+  <!-- Diagramação -->
+  <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/diagramsdotnet.svg" alt="drawio" width="40" height="40"/> </a>
 </p>
 
 ---
