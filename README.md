@@ -2,7 +2,7 @@
 
 Sou desenvolvedor de software em constante evolução. Com formação em **Engenharia Civil**, aplico minha base lógica, analítica e de modelagem de problemas na construção de softwares eficientes e estruturados.
 
-Atualmente concluí o curso de Técnico em Desenvolvimento de Sistemas e sou graduando em **Ciência da Computação**, combinando conceitos acadêmicos com desenvolvimento full stack na prática.
+Atualmente concluí o curso de **Técnico em Desenvolvimento de Sistemas** e sou graduando em **Ciência da Computação**, combinando conceitos acadêmicos com desenvolvimento full stack na prática.
 
 ---
 
