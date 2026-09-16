@@ -1,12 +1,32 @@
-<h1 align="center">Hi 👋, I'm Gilberto Krein</h1>
+<h1 align="center"> Olá, eu sou o Gilberto Krein 👋</h1>
 
-Sou um profissional focado em construir soluções e resolver problemas complexos. Vindo da Engenharia Civil, desenvolvi uma sólida base analítica, visão sistêmica de projetos e raciocínio lógico avançado (habilidades que hoje canalizo integralmente para o desenvolvimento de software).
+Sou desenvolvedor de software em constante evolução. Com formação em **Engenharia Civil**, aplico minha base lógica, analítica e de modelagem de problemas na construção de softwares eficientes e estruturados.
 
-🎓 Técnico em Desenvolvimento de Sistemas pelo IFB e graduando em Ciência da Computação. O meu foco diário é construir aplicações robustas, aprimorar a arquitetura de códigos e entender como a tecnologia pode otimizar processos reais.
+Atualmente curso **Ciência da Computação** e **Sistemas para Internet**, combinando conceitos acadêmicos com desenvolvimento full stack na prática.
 
-Vejo minha transição de carreira não como uma mudança de rumo, mas como uma evolução de ferramentas. Sigo focado em expandir meu conhecimento técnico e busco ativamente oportunidades para atuar como Desenvolvedor.
+---
 
-🚀 **Interesses e estudos atuais:** Java, JavaScript, Banco de Dados, Segurança da Informação.
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Java, JavaScript
+- **Backend & Paradigmas:** Programação Orientada a Objetos (POO), REST APIs
+- **Bancos de Dados:** Bancos Relacionais (SQL)
+- **Controle de Versão:** Git, GitHub
+
+---
+
+### 📌 Projetos em Destaque
+
+- 💻 **[Projeto-Final_POO](https://github.com/gilkrein/Projeto-Final_POO_Gilberto-Krein)**
+  *Aplicação desenvolvida aplicando conceitos sólidos de Programação Orientada a Objetos (POO), arquitetura modular e boas práticas em Java.*
+
+- 📋 **[Lista-GK](https://github.com/gilkrein/Lista-GK)**
+  *Aplicação de gerenciamento e manipulação de listas/tarefas, focada em organização de fluxo de dados, lógica e interface funcional.*
+
+---
+
+### 📬 Como me encontrar
+- **LinkedIn:** [linkedin.com/in/gilberto-krein](https://linkedin.com/in/gilberto-krein)
+.
 
 ### Connect with me:
 <p align="left">
