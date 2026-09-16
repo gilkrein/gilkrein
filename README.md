@@ -1,8 +1,8 @@
-<h1 align="center"> Olá, eu sou o Gilberto Krein 👋</h1>
+<h1 align="center"> Olá, eu sou Gilberto Krein 👋</h1>
 
 Sou desenvolvedor de software em constante evolução. Com formação em **Engenharia Civil**, aplico minha base lógica, analítica e de modelagem de problemas na construção de softwares eficientes e estruturados.
 
-Atualmente curso **Ciência da Computação** e **Sistemas para Internet**, combinando conceitos acadêmicos com desenvolvimento full stack na prática.
+Atualmente concluí o curso de Técnico em Desenvolvimento de Sistemas e sou graduando em **Ciência da Computação**, combinando conceitos acadêmicos com desenvolvimento full stack na prática.
 
 ---
 
