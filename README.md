@@ -16,11 +16,14 @@ Concluí o curso de **Técnico em Desenvolvimento de Sistemas** e atualmente cur
 
 ### 📌 Projetos em Destaque
 
-- 💻 **[Projeto-Final_POO](https://github.com/gilkrein/Projeto-Final_POO_Gilberto-Krein)**
-  *Aplicação desenvolvida aplicando conceitos sólidos de Programação Orientada a Objetos (POO), arquitetura modular e boas práticas em Java.*
 
 - 📋 **[Lista-GK](https://github.com/gilkrein/Lista-GK)**
   *Aplicação de gerenciamento e manipulação de listas/tarefas, focada em organização de fluxo de dados, lógica e interface funcional.*
+  
+- 💻 **[Projeto-Final_POO](https://github.com/gilkrein/Projeto-Final_POO_Gilberto-Krein)**
+  *Aplicação desenvolvida aplicando conceitos sólidos de Programação Orientada a Objetos (POO), arquitetura modular e boas práticas em Java.*
+
+
 
 ---
 
