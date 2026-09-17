@@ -24,6 +24,62 @@ Concluí o curso de **Técnico em Desenvolvimento de Sistemas** e atualmente cur
 
 ---
 
+### Languages and Tools:
+<p align="left"> 
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a> 
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="chatgpt" width="40" height="40"/> </a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlegemini.svg" alt="gemini" width="40" height="40"/> </a>
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/anthropic.svg" alt="claude" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/pt-br/products/data-studio/" target="_blank" rel="noreferrer"> <img src="./ssms_21.png" alt="azure-data-studio" width="40" height="40"/> </a>
+  <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="./jmeter.png" alt="jmeter" width="40" height="40"/> </a>
+  <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/diagramsdotnet.svg" alt="drawio" width="40" height="40"/> </a>
+  <a href="https://lovable.dev/" target="_blank" rel="noreferrer"> <img src="./lovable-ai-icon.png" alt="lovable" width="40" height="40"/> </a>
+  <a href="https://owasp.org/www-project-threat-dragon/" target="_blank" rel="noreferrer"> <img src="./threat-dragon.png" alt="threat-dragon" width="40" height="40"/> </a>
+  <a href="https://mermaid.js.org/" target="_blank" rel="noreferrer"> <img src="./mermaid.png" alt="mermaid" width="40" height="40"/> </a>
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="./cisco-packet-tracer.png" alt="packet-tracer" width="40" height="40"/> </a>
+  <a href="https://astah.net/" target="_blank" rel="noreferrer"> <img src="./astah3.png" alt="astah" width="40" height="40"/> </a>
+  <a href="https://dbdiagram.io/" target="_blank" rel="noreferrer"> <img src="./dbdiagram.png" alt="dbdiagram" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilkrein&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilkrein&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/activity-overview?username=gilkrein&theme=default)
+
+---
+
+### 📬 Conecte-se comigo
+<p align="left">
+  <a href="https://linkedin.com/in/gilberto-krein" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K9447791U6..." target="_blank"><img src="https://img.shields.io/badge/Lattes-Ver%20Currículo-yellowgreen?style=for-the-badge" /></a>
+</p>
+
+- 📋 **[Lista-GK](https://github.com/gilkrein/Lista-GK)**
+  *Aplicação de gerenciamento e manipulação de listas/tarefas, focada em organização de fluxo de dados, lógica e interface funcional.*
+
+---
+
 ### 📬 Como me encontrar
 - **LinkedIn:** [linkedin.com/in/gilberto-krein](https://linkedin.com/in/gilberto-krein)
 .
