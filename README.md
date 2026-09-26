@@ -36,6 +36,16 @@ Concluí o curso de **Técnico em Desenvolvimento de Sistemas** e atualmente cur
 
 ---
 
+
+
+### 📊 Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilkrein&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilkrein&theme=default)
+
+---
+
 ### Languages and Tools:
 <p align="left"> 
    <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
@@ -85,9 +95,3 @@ Concluí o curso de **Técnico em Desenvolvimento de Sistemas** e atualmente cur
 </p>
 
 ---
-
-### 📊 Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilkrein&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilkrein&theme=default)
