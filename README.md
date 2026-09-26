@@ -93,5 +93,3 @@ Concluí o curso de **Técnico em Desenvolvimento de Sistemas** e atualmente cur
   <img src="./dbdiagram.png" alt="dbdiagram" width="40" height="40"/>
 </a>
 </p>
-
----
